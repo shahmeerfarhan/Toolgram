@@ -1,0 +1,14 @@
+{
+  "tools": [
+    {"id":"uuid","title":"UUID Generator","desc":"Generate unique identifiers","icon":"fa-fingerprint"},
+    {"id":"json-minifier","title":"JSON Minifier","desc":"Remove whitespace from JSON","icon":"fa-compress-alt"},
+    {"id":"base64","title":"Base64 Encoder/Decoder","desc":"Encode/decode Base64 strings","icon":"fa-lock"},
+    {"id":"url-encoder","title":"URL Encoder/Decoder","desc":"Encode/decode URL strings","icon":"fa-link"},
+    {"id":"sha256","title":"SHA-256 Hasher","desc":"Generate SHA-256 hash","icon":"fa-hashtag"},
+    {"id":"epoch","title":"Unix Epoch Converter","desc":"Convert timestamps to dates","icon":"fa-clock"},
+    {"id":"html-entity","title":"HTML Entity Encoder","desc":"Encode/decode HTML entities","icon":"fa-code"},
+    {"id":"utf8","title":"UTF-8 Validator","desc":"Validate UTF-8 encoding","icon":"fa-language"},
+    {"id":"crc32","title":"CRC32 Checksum","desc":"Calculate CRC32 checksums","icon":"fa-file-contract"},
+    {"id":"case-normalizer","title":"Case Normalizer","desc":"Convert text case formats","icon":"fa-text-height"}
+  ]
+}
