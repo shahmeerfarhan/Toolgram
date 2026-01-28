@@ -11,7 +11,7 @@
             newNav.innerHTML = `
                 <div class="logo">
                     <a href="../index.html">
-                        <img src="https://i.postimg.cc/sgvNN6w5/Gemini-Generatod-Image-xajg8yxajg8yxajg-removebg-preview.png" alt="ToolGram">
+                        <img src="https://i.postimg.cc/sgvNN6w5/Gemini-Generated-Image-xajg8yxajg8yxajg-removebg-preview.png" alt="ToolGram">
                     </a>
                 </div>
                 <div class="search">
@@ -22,7 +22,7 @@
                 <div class="nav-buttons">
                     <a href="../tools.html" class="contact-btn">
                         <i class="fas fa-tools"></i>
-                        <span>All Tools</span>
+                        <span>my tools</span>
                     </a>
                     <a href="../contact.html" class="contact-btn">
                         <i class="fas fa-envelope"></i>
@@ -38,3 +38,4 @@
     });
 
 })();
+
